@@ -6,3 +6,4 @@ if(numero >= 5){
 }else{
     alert('Haha se fudeu!');
 }
+let nome = prompt('Qual seu nome?');
