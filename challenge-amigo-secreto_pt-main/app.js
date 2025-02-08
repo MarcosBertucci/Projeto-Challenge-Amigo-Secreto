@@ -7,3 +7,4 @@ if(numero >= 5){
     alert('Haha se fudeu!');
 }
 let nome = prompt('Qual seu nome?');
+alet(`Olá, ${name}!`);
